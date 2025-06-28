@@ -16,6 +16,11 @@ This demo showcases a minimal and interpretable EEG signal classification pipeli
 
 ## 📊 Preview
 
+### 🎯 Sample Visualization
+
+This is the output plot showing the predicted class vs. true SSVEP frequencies using PCA reduction.
+
+
 ![Sample Output](output.png)
 
 ---

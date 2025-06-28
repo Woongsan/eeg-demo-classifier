@@ -16,7 +16,7 @@ This demo showcases a minimal and interpretable EEG signal classification pipeli
 
 ## 📊 Preview
 
-![Sample Output](https://raw.githubusercontent.com/woongsan/eeg-demo-classifier/main/sample_output.png)
+![Sample Output](output.png)
 
 ---
 

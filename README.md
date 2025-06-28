@@ -60,3 +60,13 @@ In BCI (Brain-Computer Interface), real-time classification of SSVEP signals (li
 git clone https://github.com/Woongsan/eeg-demo-classifier.git
 cd eeg-demo-classifier
 pip install -r requirements.txt
+
+
+---
+
+## 👨‍💻 Author
+
+**Woongsan**  
+- 💼 Electrical & Computer Engineering @ Yonsei University  
+- 🎯 Interested in Brain-Computer Interface (BCI), AI Systems, and Efficient Model Training  
+- 📫 [GitHub](https://github.com/woongsan)  
